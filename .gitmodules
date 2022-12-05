@@ -1,3 +1,12 @@
 [submodule "notes"]
 	path = notes
 	url = git@github.com:tszandy/notes.git
+[submodule "leetcode"]
+	path = leetcode
+	url = git@github.com:tszandy/leetcode.git
+[submodule "food_recipes"]
+	path = food_recipes
+	url = git@github.com:tszandy/food_recipes.git
+[submodule "loan_calculator"]
+	path = loan_calculator
+	url = git@github.com:tszandy/loan_calculator.git
